@@ -24,9 +24,9 @@ Usage
 
 To run the simulation, navigate to the directory containing the script and run the following command in the terminal:
 
-    ```
+    
     python <script_name>.py --iodir <path_to_input_files>
-    ```
+    
 <script_name>.py should be replaced with the name of the script file.
 <path_to_input_files> should be the path to the directory containing the imem.txt and dmem.txt files, which represent the instruction memory and data memory, respectively.
 
