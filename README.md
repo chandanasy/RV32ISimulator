@@ -43,5 +43,7 @@ The simulation generates output files showing the state of the data memory and t
 Contributions to this project are welcome. Please follow the standard process for contributing to projects on GitHub:
 
 Fork the repository.
+
 Create a new branch for each feature or improvement.
+
 Submit a pull request from your branch to the main project.
