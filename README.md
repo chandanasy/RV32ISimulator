@@ -16,7 +16,7 @@ Support for basic RV32I instructions and their execution in a simplified process
 
 Python 3.x
 
-#Installation
+# Installation
 
 Clone or download this repository to your local machine.
 Ensure Python 3.x is installed on your system.
