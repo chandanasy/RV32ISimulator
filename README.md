@@ -12,6 +12,7 @@ ControlUnit class for determining the control signals based on instruction type.
 ALU implementation for executing arithmetic and logic operations.
 SingleStageCore and FiveStageCore classes for simulating processor cores with different pipeline stages.
 Support for basic RV32I instructions and their execution in a simplified processor environment.
+
 # Requirements
 
 Python 3.x
