@@ -34,7 +34,7 @@ To run the simulation, navigate to the directory containing the script and run t
 # Input Files
 
 imem.txt: Contains the binary representations of the instructions to be loaded into the instruction memory.
-dmem.txt: Contains the initial state of the data memory. \
+dmem.txt: Contains the initial state of the data memory. 
 
 Output
 The simulation generates output files showing the state of the data memory and the register file after executing the instructions. It also prints performance metrics such as the total number of cycles taken, cycles per instruction (CPI), and instructions per cycle (IPC) for both single-stage and five-stage cores.
